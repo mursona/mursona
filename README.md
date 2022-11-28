@@ -36,6 +36,16 @@ I currently passionate about AI based work👀. 🌱 I’m currently learning Ma
 
 ![Mursona's Github Stats](https://github-readme-stats.vercel.app/api?username=mursona&show_icons=true&theme=radical)
 
+### [Snake game from github user contributions graph](https://github.com/Platane/snk) - [Platane](https://github.com/Platane/) 
+![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+
+### [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - [jstrieb](https://github.com/jstrieb)
+<a href="https://github.com/jstrieb/github-stats">
+  
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+</a>  
+
 ----
 Credit: [Mursona](https://github.com/mursona)
 

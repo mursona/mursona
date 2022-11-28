@@ -40,8 +40,6 @@ I currently passionate about AI based work👀. 🌱 I’m currently learning Ma
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
-
 ----
 Credit: [Mursona](https://github.com/mursona)
 

@@ -36,15 +36,12 @@ I currently passionate about AI based work👀. 🌱 I’m currently learning Ma
 
 ![Mursona's Github Stats](https://github-readme-stats.vercel.app/api?username=mursona&show_icons=true&theme=radical)
 
-### [Snake game from github user contributions graph](https://github.com/mursona/snk) - [Mursona](https://github.com/mursona/) 
-![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+#### 26 . [Generate Snake Game From Github Contribution Grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
-### [GitHub Stats Visualization](https://github.com/mursona/github-stats) - [mursona](https://github.com/mursona)
-<a href="https://github.com/mursona/github-stats">
-  
-![](https://github.com/mursona/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/mursona/github-stats/blob/master/generated/languages.svg)
-</a>  
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
+
+<br/>
+<br/>
 
 ----
 Credit: [Mursona](https://github.com/mursona)

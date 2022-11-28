@@ -36,11 +36,11 @@ I currently passionate about AI based work👀. 🌱 I’m currently learning Ma
 
 ![Mursona's Github Stats](https://github-readme-stats.vercel.app/api?username=mursona&show_icons=true&theme=radical)
 
-### Contribute Grid Snake
-<img src="https://github.com/mursona/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
+### Generates a snake game from a github user contributions graph
 
-<br/>
-<br/>
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
 
 ----
 Credit: [Mursona](https://github.com/mursona)

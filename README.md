@@ -40,7 +40,7 @@ I currently passionate about AI based work👀. 🌱 I’m currently learning Ma
 
 ### Generates a snake game from a github user contributions graph
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+[![](https://visitcount.itsvg.in/api?id=mursona&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ----
 Credit: [Mursona](https://github.com/mursona)

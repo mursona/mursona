@@ -11,8 +11,6 @@ I'm also currently doing my Bsc in CSE while working on my University and other 
 I currently passionate about AI based work👀. 🌱 I’m currently learning MaskRCNN.</p>
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/mursona/mursona">here</a> </h3>
----
-[![](https://visitcount.itsvg.in/api?id=mursona&icon=0&color=0)](https://visitcount.itsvg.in)
 
 **Languages I have used**
 

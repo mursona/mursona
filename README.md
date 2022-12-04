@@ -34,11 +34,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mursona&card_width=550)](https://github.com/mursona)
 
-###
-- [Facebook](https://www.facebook.com/mahabubamursona) 😏
-- [LinkedIn](https://www.linkedin.com/in/mursona) 👨💼
-- [Blog](https://mursona.blogspot.com/) 🤓💻
-
 ##  📫 Where to find me
 [![Gmail Badge](https://img.shields.io/badge/-mahabuba.mursona@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahabuba.mursona@gmail.com)](mailto:mahabuba.mursona@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mursona/)
@@ -51,10 +46,6 @@ You can click the Preview link to take a look at your changes.
 ![Mursona's Github Stats](https://github-readme-stats.vercel.app/api?username=mursona&show_icons=true&theme=radical)
 
 # Profile Activity
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/mursona/profile-activity-generator/master/demo.png" />
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=mursona&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 

@@ -3,7 +3,7 @@ mursona/mursona is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Mursona's GitHub Banner](https://github.com/mursona/mursona/blob/main/Mahabuba%20Akter%20Mursona.png)
+![Mursona's GitHub Banner](https://github.com/mursona/mursona/blob/main/Mahabuba.png)
 
 <h2 align="center">Hello there! My name is Mursona. 👋🤓</h2>
 <p align="center">I'm a Front End Web Developer. I'm also currently compelete my Bsc in Computer Science and Engineering (CSE) while working on my University and other projects. My core skill is based on JavaScript. I like to do most of the things using JavaScript, React JS and Node JS. I like planning before doing any project and make the project with care, love and functionality. I can cope with any teammate quite frankly. I like research, reading books and traveling in my free time. I am available for any kind of job opportunity that suits my interests.</p>

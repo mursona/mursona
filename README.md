@@ -27,14 +27,18 @@ You can click the Preview link to take a look at your changes.
 
 **Design Framework I have used**
 
+![Tailwind CSS](https://img.shields.io/static/v1?style=flat&logo=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 
 **Some of the technologies I have worked with**
 
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![Typescript](https://img.shields.io/badge/-typescript-000000?&style=flat&logo=typescript&logoColor=white)
+
+**Development platform I have used**
+
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Typescript](https://img.shields.io/badge/-typescript-000000?&style=flat&logo=typescript&logoColor=white)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mursona&card_width=550)](https://github.com/mursona)
 

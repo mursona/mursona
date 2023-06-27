@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ![NoSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
 **Design Framework I have used**
-![Css](https://img.shields.io/badge/-Css-000000?style=flat&logo=css&logoColor=F05032)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-000000?style=flat&logo=css&logoColor=F05032)
 
 **Some of the technologies I have worked with**
 

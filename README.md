@@ -18,12 +18,15 @@ You can click the Preview link to take a look at your changes.
 
 **Languages I have used**
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![NoSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
+**Design Framework I have used**
+![Css](https://img.shields.io/badge/-Css-000000?style=flat&logo=css&logoColor=F05032)
 
 **Some of the technologies I have worked with**
 

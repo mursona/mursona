@@ -18,12 +18,11 @@ You can click the Preview link to take a look at your changes.
 
 **Languages I have used**
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![NoSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
 **Design Framework I have used**
 
@@ -32,15 +31,29 @@ You can click the Preview link to take a look at your changes.
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
 
+**Graphic Design Tools I have used**
+
+![Adobe Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=222222&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
+![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
+![Adobe After Effects](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+After+Effects&color=9999FF&logo=Adobe+After+Effects&logoColor=FFFFFF&label=)
+![Photopea](https://img.shields.io/static/v1?style=for-the-badge&message=Photopea&color=18A497&logo=Photopea&logoColor=FFFFFF&label=)
+![Canva](https://img.shields.io/static/v1?style=for-the-badge&message=Canva&color=222222&logo=Canva&logoColor=00C4CC&label=)
+
 **Some of the technologies I have worked with**
 
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![React Hook Form](https://img.shields.io/static/v1?style=for-the-badge&message=React+Hook+Form&color=EC5990&logo=React+Hook+Form&logoColor=FFFFFF&label=)
+![React Query](https://img.shields.io/static/v1?style=for-the-badge&message=React+Query&color=FF4154&logo=React+Query&logoColor=FFFFFF&label=)
+![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
 ![Typescript](https://img.shields.io/badge/-typescript-000000?&style=flat&logo=typescript&logoColor=white)
+![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=008CDD&logo=Stripe&logoColor=FFFFFF&label=)
+![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
 
 **Development platform I have used**
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)

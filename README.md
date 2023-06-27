@@ -27,7 +27,10 @@ You can click the Preview link to take a look at your changes.
 
 **Design Framework I have used**
 
-![Tailwind CSS](https://img.shields.io/static/v1?style=flat&logo=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+![DaisyUI](https://img.shields.io/static/v1?style=for-the-badge&message=DaisyUI&color=5A0EF8&logo=DaisyUI&logoColor=FFFFFF&label=)
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
+![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
 
 **Some of the technologies I have worked with**
 
@@ -37,8 +40,11 @@ You can click the Preview link to take a look at your changes.
 
 **Development platform I have used**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)
+![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mursona&card_width=550)](https://github.com/mursona)
 

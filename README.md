@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 [![Gmail Badge](https://img.shields.io/badge/-mahabuba.mursona@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahabuba.mursona@gmail.com)](mailto:mahabuba.mursona@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mursona/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahabubamursona/)
-[![Portfolio](https://img.shields.io/badge/%20-Portfolio-green?color=14171A&labelColor=1976d2&logoColor=ffffff)](https://mursona.blogspot.com/)
+[![Portfolio](https://img.shields.io/badge/%20-Portfolio-green?color=14171A&labelColor=1976d2&logoColor=ffffff)](https://mursona.netlify.app/)
 
 <br />
 

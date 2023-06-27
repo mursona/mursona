@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/-typescript-000000?&style=for-the-badge&logo=typescript&logoColor=white)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mursona&card_width=550)](https://github.com/mursona)
 
